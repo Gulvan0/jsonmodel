@@ -1,0 +1,14 @@
+{
+    "name": "jsonmodel",
+    "url": "",
+    "license": "MIT",
+    "version": "0.1.0",
+    "classPath": "src/",
+    "description": "JSON serialization/unserialization via build macros: JsonSerializable/JsonUnserializable markers, typed parsers and unserialization exceptions.",
+    "contributors": [],
+    "dependencies": {
+        "morestd": "",
+        "hxjsonast": "",
+        "json2object": ""
+    }
+}

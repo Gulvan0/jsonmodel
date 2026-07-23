@@ -1,0 +1,10 @@
+package jsonmodel;
+
+import hxjsonast.Json;
+
+enum UnserializerInput
+{
+    Str(json:String);
+    Ast(json:Json);
+    RawJson(json:Dynamic);
+}
